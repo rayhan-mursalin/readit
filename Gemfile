@@ -44,4 +44,8 @@ group :development, :test do
 
   # Devise for authentication
   gem 'devise', '~> 3.4.1'
+
+  # Bootstrap for styling
+  gem 'bootstrap-sass', '~> 3.3.4'
+
 end
