@@ -54,4 +54,6 @@ group :development, :test do
   # Simple form for forms
   gem 'simple_form', '~> 3.1.0'
 
+  # Better error for checking errors
+
 end
