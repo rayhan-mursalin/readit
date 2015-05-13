@@ -49,6 +49,9 @@ group :development, :test do
   gem 'bootstrap-sass', '~> 3.3.4'
 
   # acts_as_votable for voting
-  gem 'acts_as_votable', '~> 0.10.0' 
+  gem 'acts_as_votable', '~> 0.10.0'
+
+  # Simple form for forms
+  gem 'simple_form', '~> 3.1.0'
 
 end
