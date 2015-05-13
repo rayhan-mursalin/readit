@@ -48,4 +48,7 @@ group :development, :test do
   # Bootstrap for styling
   gem 'bootstrap-sass', '~> 3.3.4'
 
+  # acts_as_votable for voting
+  gem 'acts_as_votable', '~> 0.10.0' 
+
 end
